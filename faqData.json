@@ -1,0 +1,5 @@
+{
+    "what is azure?": "Azure is Microsoft's cloud computing platform.",
+    "what is qna maker?": "QnA Maker is a cloud-based API service that creates a conversational layer over your data.",
+    "how does this chatbot work?": "This chatbot uses a simple Node.js backend to simulate Azure QnA functionality."
+}
